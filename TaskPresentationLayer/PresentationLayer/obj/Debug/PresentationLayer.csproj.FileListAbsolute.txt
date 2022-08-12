@@ -1,0 +1,231 @@
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\libzstd.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\snappy32.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\snappy64.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\libsnappy64.so
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\libzstd.so
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\libsnappy64.dylib
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\libzstd.dylib
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\mongocrypt.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\PresentationLayer.dll.config
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\PresentationLayer.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\PresentationLayer.pdb
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\csc.exe
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\csc.exe.config
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\csc.rsp
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\csi.exe
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\csi.exe.config
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\csi.rsp
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.AppContext.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Console.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.IO.Compression.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Net.Http.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.ValueTuple.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\vbc.exe
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\vbc.exe.config
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\vbc.rsp
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\BusinessLayer.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\DataAccessLAyer.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\EntityLayer.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\Newtonsoft.Json.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Net.Http.Formatting.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Helpers.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Http.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Http.WebHost.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Mvc.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Razor.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Webpages.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Webpages.Razor.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\MongoDB.Driver.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\MongoDB.Driver.Core.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\MongoDB.Bson.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\netstandard.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\MongoDB.Libmongocrypt.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\DnsClient.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\SharpCompress.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Buffers.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Memory.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Numerics.Vectors.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\BusinessLayer.pdb
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\BusinessLayer.dll.config
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\DataAccessLAyer.pdb
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\DataAccessLAyer.dll.config
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\EntityLayer.pdb
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\EntityLayer.dll.config
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Razor.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Webpages.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Webpages.Razor.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Helpers.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Mvc.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\Newtonsoft.Json.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Net.Http.Formatting.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Http.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Web.Http.WebHost.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\MongoDB.Driver.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\MongoDB.Driver.Core.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\MongoDB.Bson.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\DnsClient.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Buffers.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Memory.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\bin\System.Numerics.Vectors.xml
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Users\ademh\source\repos\TaskPresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\libzstd.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\snappy32.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\snappy64.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\libsnappy64.so
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\libzstd.so
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\libsnappy64.dylib
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\libzstd.dylib
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\mongocrypt.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\PresentationLayer.dll.config
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\PresentationLayer.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\PresentationLayer.pdb
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\csc.exe
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\csc.exe.config
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\csc.rsp
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\csi.exe
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\csi.exe.config
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\csi.rsp
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.AppContext.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Console.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.IO.Compression.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Net.Http.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.ValueTuple.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\vbc.exe
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\vbc.exe.config
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\vbc.rsp
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\BusinessLayer.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\DataAccessLAyer.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\EntityLayer.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\Newtonsoft.Json.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Net.Http.Formatting.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Helpers.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Http.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Http.WebHost.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Mvc.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Razor.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Webpages.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Webpages.Razor.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\MongoDB.Driver.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\MongoDB.Driver.Core.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\MongoDB.Bson.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\netstandard.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\MongoDB.Libmongocrypt.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\DnsClient.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\SharpCompress.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Buffers.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Memory.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Numerics.Vectors.dll
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\BusinessLayer.pdb
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\BusinessLayer.dll.config
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\DataAccessLAyer.pdb
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\DataAccessLAyer.dll.config
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\EntityLayer.pdb
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\EntityLayer.dll.config
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Razor.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Webpages.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Webpages.Razor.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Helpers.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Mvc.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\Newtonsoft.Json.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Net.Http.Formatting.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Http.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Web.Http.WebHost.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\MongoDB.Driver.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\MongoDB.Driver.Core.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\MongoDB.Bson.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\DnsClient.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Buffers.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Memory.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\bin\System.Numerics.Vectors.xml
+C:\Users\ademh\Desktop\Staj Belgeleri\Layered-architecture-with-mongo-db-main\TaskPresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete

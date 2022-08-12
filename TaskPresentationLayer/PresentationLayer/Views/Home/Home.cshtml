@@ -1,0 +1,102 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        body {
+            background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite;
+            height: 100vh;
+        }
+
+        @@keyframes gradient {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        #divBtns {
+            text-align: center;
+            width: 250px;
+            height: 250px;
+            position: relative;
+            margin: auto;
+            margin-top: 20%;
+        }
+
+        #btnStores {
+            margin-right:5px;
+            width: 45%;
+            height: 45%;
+            border-radius: 10%;
+            
+        }
+    </style>
+</head>
+<body>
+    <div id="divBtns">
+
+    </div>
+    <script>
+        var links = [];
+        $(document).ready(function () {
+
+            $.getJSON("https://localhost:44326/api/Link", function (data) {
+                $.each(data, function (key, value) {
+                    links.push(value);
+
+                });
+                links.forEach(myFunction);
+                getMobileOS();
+            });
+            function myFunction(item, index) {
+                $("#divBtns").append("<input  type='button' onclick='" + item.Name + "()' id='btnStores' value=" + item.Name + ">");
+
+            }
+
+
+
+
+
+        });
+        function getMobileOS() {
+
+            var _Android = /(android)/i.test(navigator.userAgent);
+            var _IOS = /(iPad)|(iPhone)|(iPod)/i.test(navigator.userAgent);
+            if (_Android) {
+
+                window.open(links.find(x => x.Name == "Android").Url, '_self', false);
+            }
+            if (_IOS) {
+                res = "Cihaz IOS";
+                window.open(links.find(x => x.Name == "IOS").Url, '_self', false);
+            }
+        }
+        IOS = () => {
+            window.open(links.find(x => x.Name == "IOS").Url, '_self', false);
+        }
+        Android = () => {
+            window.open(links.find(x => x.Name == "Android").Url, '_self', false);
+        }
+    </script>
+
+</body>
+</html>
